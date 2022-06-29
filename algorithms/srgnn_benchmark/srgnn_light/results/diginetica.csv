@@ -1,0 +1,2 @@
+NDCG@20, MAP@20,Precision@20,Recall@20, HitRate@20, MRR@20,Coverage@20, Popularity@20
+0.2454,0.0271,0.0636,0.3831,0.4911,0.1648,0.6121,0.0925

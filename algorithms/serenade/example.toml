@@ -1,0 +1,35 @@
+config_type = "toml"
+
+[server]
+host = "0.0.0.0"
+port = 8080
+num_workers = 4
+
+[log]
+level = "info" # not implemented
+
+[data]
+training_data_path="train.txt"
+
+[model]
+m_most_recent_sessions = 500
+neighborhood_size_k = 50
+max_items_in_session = 2
+num_items_to_recommend = 21
+idf_weighting = 1
+
+[logic]
+enable_business_logic = "false"
+
+[hyperparam]
+training_data_path = "train.txt"
+test_data_path = "test.txt"
+validation_data_path = "valid.txt"
+num_iterations = 15
+save_records = true
+out_path = "results.csv"
+enable_business_logic = false
+n_most_recent_sessions_range = [100, 2500]
+neighborhood_size_k_range = [50, 1500]
+last_items_in_session_range = [1, 20]
+idf_weighting_range = [0, 5]

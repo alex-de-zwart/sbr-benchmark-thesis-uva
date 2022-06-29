@@ -1,0 +1,1 @@
+{'k': 1500, 'sample_size': 500, 'weighting': 'quadratic', 'weighting_score': 'div', 'idf_weighting': 1}

@@ -1,0 +1,13 @@
+{
+  "K": 1,
+  "batch_size": 128,
+  "epochs": 25,
+  "hidden_dim": 200,
+  "l2_penalty": 0,
+  "lr": 0.01641981068896337,
+  "model_type": "lightgcn",
+  "normalize": true,
+  "num_items": 482,
+  "step": 3,
+  "weight_decay": 0.1
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73b471b4-80b9-4eb9-bee0-23f20903d30f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vsknn/evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../vsknn/evaluation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vsknn/vsknn.py" beforeDir="false" afterPath="$PROJECT_DIR$/../vsknn/vsknn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vsknn/vsknn_py_predictions.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data/prepared/srgnn/item_views_test.0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../data/prepared/srgnn/item_views_test.0.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data/prepared/srgnn/item_views_test.1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../data/prepared/srgnn/item_views_test.1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data/prepared/srgnn/item_views_test.2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../data/prepared/srgnn/item_views_test.2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data/prepared/srgnn/item_views_train.0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../data/prepared/srgnn/item_views_train.0.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data/prepared/srgnn/item_views_train.1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../data/prepared/srgnn/item_views_train.1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data/prepared/srgnn/item_views_train.2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../data/prepared/srgnn/item_views_train.2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data/prepared/srgnn/item_views_train_tr.0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../data/prepared/srgnn/item_views_train_tr.0.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data/prepared/srgnn/item_views_train_tr.1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../data/prepared/srgnn/item_views_train_tr.1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data/prepared/srgnn/item_views_train_tr.2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../data/prepared/srgnn/item_views_train_tr.2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data/prepared/srgnn/item_views_train_valid.1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../data/prepared/srgnn/item_views_train_valid.1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data/prepared/srgnn/item_views_train_valid.2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../data/prepared/srgnn/item_views_train_valid.2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../preprocessing/process_srgnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../preprocessing/process_srgnn.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="26AHjeU3oU7m6rpznqeZ9dpRQeZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73b471b4-80b9-4eb9-bee0-23f20903d30f" name="Default Changelist" comment="" />
+      <created>1646859606615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646859606615</updated>
+    </task>
+    <servers />
+  </component>
+</project>
